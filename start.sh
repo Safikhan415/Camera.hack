@@ -44,9 +44,9 @@ echo -e "${red}   ██║   ███████╗██║     ██║ �
 echo -e "${red}   ╚═╝   ╚══════╝╚═╝     ╚═╝     ╚═╝   ╚═╝   ╚═╝  ╚═╝${reset}"
 echo ""
 echo -e "${cyan}--------------------------------------------${reset}"
-echo -e "${green}           Created by: Your Name${reset}"
+echo -e "${green}           Created by: Safi khan${reset}"
 echo -e "${cyan}--------------------------------------------${reset}"
-echo -e "${green}         Subscribe: Termux Pro Channel${reset}"
+echo -e "${green}         Tikto: Termux Pro ${reset}"
 echo -e "${cyan}--------------------------------------------${reset}"
 echo ""
 
